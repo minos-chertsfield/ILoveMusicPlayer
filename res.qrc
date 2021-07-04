@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img_snow.png</file>
+        <file>ic_mute.png</file>
+        <file>ic_sound.png</file>
+        <file>ic_next.png</file>
+        <file>ic_pause.png</file>
+        <file>ic_play.png</file>
+        <file>ic_prev.png</file>
+        <file>ic_favorite_checked.png</file>
+        <file>ic_favorite_unchecked.png</file>
+        <file>skin_default.jpg</file>
+    </qresource>
+</RCC>
